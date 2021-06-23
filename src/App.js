@@ -1,8 +1,10 @@
 import Counter from './Counter.js';
+import InputSample from './InputSample.js';
+
 
 function App() {
   return (
-    <Counter/>
+    <InputSample/>
   );
 }
 
